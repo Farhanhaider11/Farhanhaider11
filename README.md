@@ -1,6 +1,6 @@
 ## Hi 👋, 
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building enterprise-grade Odoo 19 modules and modern full-stack applications with Next.js.<br><br>👯 I’m looking to collaborate on:<br>Open Source, Odoo, ERP, Full-Stack, and AI-powered projects.<br><br>🤝 I’m looking for help with:<br>Scalable software architecture, system design, and open-source contributions.<br><br>🌱 I’m currently learning:<br>Odoo 19, Node.js, Python, PostgreSQL, System Design, and Backend Development.<br><br>💬 Ask me about:<br>Node.js, Odoo, Python, Next.js, React, TypeScript, SQL, Git, and Open Source Development.<br><br>⚡ Fun fact:<br>I enjoy building real-world software solutions that solve business problems, not just demo projects.
+🔭 I’m currently working on:<br>Currently building enterprise-grade modules, scalable Node.js backend systems, and modern web applications with a focus on reusable architecture and production-ready software..<br><br>🤝 I’m looking for help with:<br>Scalable software architecture, system design, and open-source contributions.<br><br>🌱 I’m currently learning:<br>Odoo 19, Node.js, Python, PostgreSQL, System Design, and Backend Development.<br><br>💬 Ask me about:<br>Node.js, Odoo, Python, Next.js, React, TypeScript, SQL, Git, and Open Source Development.<br><br>⚡ Fun fact:<br>I enjoy building real-world software solutions that solve business problems, not just demo projects.
 
 
 ## 🌐 Socials:
